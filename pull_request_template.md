@@ -8,6 +8,7 @@
 - [ ] Bug fix
 - [ ] New feature
 - [ ] Breaking change
+- [ ] Cleanup
 - [ ] Documentation update
 
 ## Additional Notes
