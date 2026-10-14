@@ -1,8 +1,8 @@
 ## Description
 - What changes are included in this pull request?
 
-## Moxie ticket
-- Copy the link of the Moxie ticket here
+## Related ticket
+- Link to the ClickUp task, or "N/A" if none
 
 ## Type of change
 - [ ] Bug fix
